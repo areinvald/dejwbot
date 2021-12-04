@@ -1,2 +1,10 @@
 # dejwbot
-dejwbot is a Discord chatbot. It will reply to you by copying a message from cleverbot website, or either by generating sentence with your server's messages. 
+dejwbot is a Discord chatbot. All its' replies are either generated from your server's messages, or copied from cleverbot website. 
+
+### Requirements
+* selenium installed
+* discord.py
+* undetected-chromedriver
+* markovify
+* demoji
+* installed google chrome on your machine
