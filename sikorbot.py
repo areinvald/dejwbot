@@ -70,4 +70,4 @@ class MyClient(discord.Client):
                     await message.reply(f"{text_model.make_short_sentence(280, 2, tries=100)}", mention_author=True)
 
 client = MyClient()
-client.run('OTE2NzA4ODk5MzUxMDQ4MjUy.YauFsQ.Z7Xbht_E2V5ftu7nGsd6gH6pS1I')
+client.run('YOUR BOT TOKEN')
