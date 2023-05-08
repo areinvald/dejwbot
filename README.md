@@ -1,5 +1,5 @@
 # dejwbot
-dejwbot is a Discord chatbot. All its' replies are either generated from your server's messages, or copied from cleverbot website. 
+dejwbot is a Discord chatbot. All its' responses are based on your server messages, or copied from cleverbot website. 
 
 ### Requirements
 * selenium installed
